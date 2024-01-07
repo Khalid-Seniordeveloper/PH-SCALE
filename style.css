@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(213, 219, 219)
+}
+#one {
+    background-color:rgb(5, 77 ,77 );
+}
+h1 {
+    text-align: center;
+    background-color: green;
+}
+#two {
+    background-color: rgb(6, 97 ,97  );
+}
+#three {
+    background-color: rgb(7, 117, 117);
+    
+}
+#four {
+    background-color: rgb(9, 148, 148);
+}
+#five {background-color: rgb(10, 171, 171);
+
+}
+#six {
+    background-color: rgb(10, 196, 196);
+    
+}
+#seven {
+    background-color: rgb(5, 179, 80);
+}
+#eight {
+    background-color: rgb(255, 201, 255);
+}
+#nine {
+    background-color: rgb(245, 181, 245);
+} 
+#also {
+    background-color: rgb(232, 160, 232);
+}
+#eleven {
+    background-color: rgb(232, 146, 232);
+}
+#twelve {
+    background-color: rgb(184, 44, 184);
+}
+#thirteen {
+    background-color: rgb(184, 17, 184);
+}
+p{
+    margin: 0%;
+}
